@@ -1,6 +1,6 @@
 # hyprland dotfiles
 
-this is my hyprland setup based on omarchy and livakivi's configs at https://github.com/livakivi/config-files/tree/main/linux/.config
+this is my hyprland setup based on omarchy and livakivi's configs at https://github.com/Livakivi/config-files
 
 it uses omarchy for theming, including theme switching and hooks for color changes across applications. you need the theme switcher script and hooks from omarchy they are in the omarchy directory here, but refer to the original repository for any modifications.
 
