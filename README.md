@@ -13,7 +13,7 @@ adjust the configuration files as needed, such as monitors.conf for your screens
 
 i used normal arch for this setup and not omarchy i just copied the files from omarchy into my arch install. i recommend you do the same if you want to use everything here as is. personally i only really care about the waybar part but the rest is included anyway.
 
-that's it.
+ok that's it yapping over.
 
 
 # What it looks like
